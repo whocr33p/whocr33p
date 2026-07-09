@@ -10,10 +10,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=sergulio&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sergulio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=sergulio&icon=3&color=1)](https://visitcount.itsvg.in)
-
 
